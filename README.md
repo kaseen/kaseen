@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm kaseen</h1>
+<h1 align="center">Hi, I'm kaseen</h1>
 <br>
 
 <p align="center"> 
@@ -13,7 +13,14 @@
 
 ## About me
 Male, 26 years old.  
-Hobby: Powerlifting (90 kgs bench press, 200 kgs deadlift, 150 kgs squat with bodyweight 77.5 kgs)
+Hobby: Powerlifting (90 kgs bench press, 200 kgs deadlift, 150 kgs squat with bodyweight 77.5 kgs)  
+2023 Goals: 220kg deadlift
+
+
+## Languages
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/solidity.svg">](https://en.wikipedia.org/wiki/Solidity)
+[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://en.wikipedia.org/wiki/JavaScript)  
 
 -----
-Last Edited on: 05/10/2022
+Last Edited on: 06/10/2022
