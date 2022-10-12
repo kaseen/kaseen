@@ -14,7 +14,7 @@
 ## About me
 Male, 26 years old.  
 Hobby: Powerlifting (90 kgs bench press, 200 kgs deadlift, 150 kgs squat with bodyweight 77.5 kgs)  
-2023 Goals: 220kg deadlift
+2023 Goals: 220kg deadlift, learn TempleOS
 
 
 ## Languages
@@ -23,4 +23,4 @@ Hobby: Powerlifting (90 kgs bench press, 200 kgs deadlift, 150 kgs squat with bo
 [<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://en.wikipedia.org/wiki/JavaScript)  
 
 -----
-Last Edited on: 06/10/2022
+Last Edited on: 12/10/2022
