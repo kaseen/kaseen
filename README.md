@@ -12,10 +12,26 @@
 </p>
 
 ## About me
-Male, 26 years old.  
-Hobby: Powerlifting (90 kgs bench press, 200 kgs deadlift, 150 kgs squat with bodyweight 77.5 kgs)  
-2023 Goals: 220kg deadlift, learn TempleOS (& HolyC)
+Male, 26 years old.\
+Hobby: Powerlifting (PBs: 100 kgs bench press, 200 kgs deadlift, 150 kgs squat)
 
+<details><summary>Click to see timeline of PBs</summary>
+
+- 01.09.2019. - 110kg Squat
+- 13.10.2019. - 150kg Deadlift
+- 27.02.2020. - 120kg Squat
+- 11.03.2021. - 140kg Squat
+- 12.07.2021. - 160kg RAW Deadlift
+- 11.09.2021. - 150kg Squat
+- 15.09.2021. - 180kg Deadlift
+- 23.05.2022. - 190kg Deadlift
+- 23.07.2022. - 200kg Deadlift @78kg bw
+- 03.04.2023. - 180kg Deficit Deadlift @79kg bw
+- 02.07.2023. - 100kg Bench Press @79kg bw
+
+</details> 
+
+2023 Goals: 220kg deadlift, learn TempleOS (& HolyC)
 
 ## Languages
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/solidity.svg">](https://en.wikipedia.org/wiki/Solidity)
@@ -23,4 +39,4 @@ Hobby: Powerlifting (90 kgs bench press, 200 kgs deadlift, 150 kgs squat with bo
 [<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://en.wikipedia.org/wiki/JavaScript)  
 
 -----
-Last Edited on: 12/10/2022
+Last Edited on: 08/07/2023
