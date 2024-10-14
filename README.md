@@ -12,11 +12,14 @@
 </p>
 
 ## About me
-Male, 28 years old.\
-Hobbies:
-- Powerlifting (PBs: 100 kgs bench press, 220 kgs deadlift, 150 kgs squat)
+Male, 28 years old. Passionate about powerlifting, where I focus on pushing my personal bests. Currently, I can squat 150 kg, bench press 100 kg, and deadlift 220 kg.
 
-<details><summary>Click to see timeline of PBs</summary>
+## Scientific Publications in M2x Category
+- [Published in **IEEE**, Category **M22**: <em>The Cost-effective Management of Multiple E-Coupons on Public Ethereum-based Chains Using NFT Standard with Implicit Ownership</em>](https://doi.org/10.1109/access.2024.3476678)
+- [Published in **Springer**, Category **M21a**: <em>Metagenomic Analysis of Bacterial Community and Isolation of Representative Strains from Vranjska Banja Hot Spring, Serbia</em>](https://doi.org/10.1007/s00248-023-02242-6)
+
+## Gym Personal records
+<details><summary><em>Click <strong>here</strong> to view the timeline and videos of my personal bests!</em></summary>
 
 - 01.09.2019. - 110kg Squat
 - 13.10.2019. - [150kg Deadlift](https://www.youtube.com/shorts/g3sKpgkEUMM)
@@ -35,7 +38,9 @@ Hobbies:
 
 </details> 
 
-2025 Goals: 240kg deadlift, learn TempleOS (& HolyC)
+## 2025 Goals:
+- 240kg deadlift
+- Learn TempleOS (& HolyC)
 
 ## Languages
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/solidity.svg">](https://en.wikipedia.org/wiki/Solidity)
