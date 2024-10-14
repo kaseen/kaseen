@@ -12,8 +12,9 @@
 </p>
 
 ## About me
-Male, 26 years old.\
-Hobby: Powerlifting (PBs: 100 kgs bench press, 200 kgs deadlift, 150 kgs squat)
+Male, 28 years old.\
+Hobbies:
+- Powerlifting (PBs: 100 kgs bench press, 220 kgs deadlift, 150 kgs squat)
 
 <details><summary>Click to see timeline of PBs</summary>
 
@@ -34,7 +35,7 @@ Hobby: Powerlifting (PBs: 100 kgs bench press, 200 kgs deadlift, 150 kgs squat)
 
 </details> 
 
-2023 Goals: 220kg deadlift, learn TempleOS (& HolyC)
+2025 Goals: 240kg deadlift, learn TempleOS (& HolyC)
 
 ## Languages
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/solidity.svg">](https://en.wikipedia.org/wiki/Solidity)
